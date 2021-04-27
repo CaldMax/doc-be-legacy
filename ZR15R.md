@@ -10,7 +10,7 @@ Omesso perchè non chiamato da modulo VT
 
 ## Chiamate a programmi legacy
 
-| Programma | Gestione stato | Comando | Input legacy | Output legacy       | Descrizione chiamata                            | Nuovo Mapping           |
+| Programma | Gestione stato | Comando | Input legacy | Output legacy       | Descrizione chiamata                            | Dettaglio           |
 | --------- | -------------- | ------- | ------------ | ------------------- | ----------------------------------------------- | ----------------------- |
 | ZZCFGRTV  | Stateless      | *blank* |              | [ZZdCF3](ZZdCF3.md) | Lettura terminale applicativo da configurazione | [ZZCFGRTV](ZZCFGRTV.md) |
 | Z11Z      | Stateless      | *CHAIN* |              | [Z10AdK](Z10AdK.md) | Lettura filiale legata al terminale             | [Z11Z](Z11Z.md)         |

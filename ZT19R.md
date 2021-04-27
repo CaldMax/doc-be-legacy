@@ -10,6 +10,6 @@ Omesso perchè parametro di funzionamento delle cassette di sicurezza di cui ha 
 
 ## Chiamate a programmi legacy
 
-| Programma | Gestione stato | Comando | Input legacy | Output legacy       | Descrizione chiamata                              | Nuovo Mapping   |
+| Programma | Gestione stato | Comando | Input legacy | Output legacy       | Descrizione chiamata                              | Dettaglio   |
 | --------- | -------------- | ------- | ------------ | ------------------- | ------------------------------------------------- | --------------- |
 | Z11Z      | Stateless      | *CHAIN* |              | [Z10AdK](Z10AdK.md) | Lettura tabella parametri del servizio "PARMSERV" | [Z11Z](Z11Z.md) |

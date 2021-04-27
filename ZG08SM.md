@@ -10,7 +10,7 @@ Omesso perchè non chiamato da modulo VT
 
 ## Chiamate a programmi legacy
 
-| Programma   | Gestione stato | Comando   | Input legacy            | Output legacy           | Descrizione chiamata                                    | Nuovo Mapping     |
+| Programma   | Gestione stato | Comando   | Input legacy            | Output legacy           | Descrizione chiamata                                    | Dettaglio     |
 | ----------- | -------------- | --------- | ----------------------- | ----------------------- | ------------------------------------------------------- | ----------------- |
 | ZG08S       | Stateful       | *APRI*    | [ZG08dDS1](ZG08dDS1.md) | [ZG08d2DS](ZG08d2DS.md) | Apertura transazione giornale                           | [ZG08S](ZG08S.md) |
 | *f(ZZPCID)* | Stateful       | *blank*   | *f(input)*              | *blank*                 | Scrittura riga di servizio transazione giornale         | *f(ZZPCID)*       |

@@ -15,7 +15,7 @@ public Optional<FilialeResp> getFiliale(long id)
 
 ## Chiamate a programmi legacy
 
-| Programma | Gestione stato           | Comando | Input legacy            | Output legacy           | Descrizione chiamata                          | Nuovo Mapping       |
+| Programma | Gestione stato           | Comando | Input legacy            | Output legacy           | Descrizione chiamata                          | Dettaglio       |
 | --------- | ------------------------ | ------- | ----------------------- | ----------------------- | --------------------------------------------- | ------------------- |
 | AN90R1    | Stateful ma singola call | *BANCA* | [AN90dDSA](AN90dDSA.md) | [AN90dDSC](AN90dDSC.md) | Determina il CAG a partire dal codice filiale | [AN90R1](AN90R1.md) |
 
