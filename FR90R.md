@@ -2,7 +2,7 @@
 
 ## Nuovo mapping
 ```java
-public Optional<FilialeResp> annulloRichiesta(string id)
+public String annulloRichiesta(string id)
 ```
 
 ## Tabelle legacy coinvolte
